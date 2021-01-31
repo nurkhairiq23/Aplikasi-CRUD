@@ -1,6 +1,6 @@
 # Aplikasi-CRUD
 
-Login sebagai Staff Manager {
+Login sebagai Staff Gudang {
 username = staff,
 password = staff}
 
